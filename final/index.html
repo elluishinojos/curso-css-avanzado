@@ -9,8 +9,40 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" type="image/png" href="img/favicon.png">
     
-    <title>Game Diode &mdash; Game of the year special!</title>
+    <title>Game Diode &mdash; Gamer magazine!</title>
 </head>
 <body>
+    <div class="container">
+        <header class="header">
+            <img src="img/logo.png" alt="trillo logo" class="logo">
+
+            <form action="#" class="search">
+                <input type="text" class="search__input" placeholder="Search articles">
+                <button class="search__button">
+                    <svg class="search__icon">
+                        <use xlink:href="img/sprite.svg#icon-search"></use>
+                    </svg>
+                </button>
+            </form>
+
+            <nav class="user-nav">
+                <div class="user-nav__icon-box">
+                    <svg class="user-nav__icon">
+                        <use xlink:href="img/sprite.svg#icon-bookmark"></use>
+                    </svg>
+                    <span class="user-nav__notification">3</span>
+                </div>
+                <div class="user-nav__icon-box">
+                    <svg class="user-nav__icon">
+                        <use xlink:href="img/sprite.svg#icon-bell"></use>
+                    </svg>
+                    <span class="user-nav__notification">12</span>
+                </div>
+                <div class="user-nav__user">
+                    <img src="img/user-placeholder.png" alt="User photo" class="user-nav__user-photo">
+                    <span class="user-nav__user-name">User</span>
+                </div>
+            </nav>
+        </header>
 </body>
 </html>
