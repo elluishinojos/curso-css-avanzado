@@ -1,4 +1,4 @@
-$color-primary: rgb(64, 62, 195);
+$color-primary: #403ec3;
 $color-primary-light: #5A50FF;
 $color-primary-dark: #2E3894;
 $color-secondary: #eb2f64;
@@ -69,5 +69,13 @@ body {
         margin: 0;
         max-width: 100%;
         width: 100%;
+    }
+}
+
+.content {
+    display: flex;
+
+    @media only screen and (max-width: $bp-medium) {
+        flex-direction: column;
     }
 }
