@@ -59,7 +59,7 @@ body {
 
 .container {
     max-width: 120rem;
-    margin: 8rem auto;
+    margin: 6rem auto;
     background-color: $color-grey-light-1;
     box-shadow: $shadow-dark;
 
@@ -78,4 +78,21 @@ body {
     @media only screen and (max-width: $bp-medium) {
         flex-direction: column;
     }
+}
+
+.article-view {
+    background-color: #fff;
+
+    flex: 1;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(2, min-content);
+    grid-template-columns: [full-start] minmax(6rem, 1fr) [center-start] repeat(8, [col-start] minmax(min-content, 14rem) [col-end]) [center-end] minmax(6rem, 1fr) [full-end];
+
+    @media only screen and (max-width: $bp-large) {
+        grid-template-columns: [full-start] minmax(6rem, 1fr) [center-start] repeat(8, [col-start] minmax(min-content, 14rem) [col-end]) [center-end] minmax(6rem, 1fr) [full-end];
+    }
+
 }
