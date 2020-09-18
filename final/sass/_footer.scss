@@ -1,0 +1,46 @@
+.footer {
+    grid-column: full-start / full-end;
+}
+
+.media {
+    width: max-content;
+    margin: 0 auto;
+    
+    
+    
+    &__icon {
+        fill: currentColor;
+        height: 5rem;
+        width: 5rem;
+        margin: 0 1rem;
+        cursor: pointer;
+        transition: all .5s;
+
+
+        &--fb:hover {
+            fill: #4267B2;
+        }
+
+        &--twitter:hover {
+            fill: #1da1f2;
+        }
+
+        &--instagram:hover {
+            fill: #e1306c;
+        }
+
+        &--pinterest:hover {
+            fill: #bd081c;
+        }
+    }
+}
+
+.copyright {
+    font-size: 1.4rem;
+    color: $color-grey-dark-2;
+    padding: 1rem 0;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 70%;
+}
