@@ -1,6 +1,6 @@
 .gallery {
     display: flex;
-    border-bottom: solid 1px rgba($color-grey-dark-1, 0.2);
+    cursor: pointer;
 
     &__item {
         flex: 1;
@@ -9,6 +9,5 @@
     &__photo {
         width: 100%;
         display: block;
-        cursor: pointer;
     }
 }
