@@ -17,8 +17,14 @@ Lo que necesitas para seguir este curso es:
 - Animaciones
 
 ### Sitios y Herramientas recomendadas
-- [Can I use...](https://caniuse.com/)
-- [Paletton](https://paletton.com/) 
-- [Icomoon](https://icomoon.io/)
-- [Flexyboxes](https://the-echoplex.net/flexyboxes/)
-- [Font Awesome](https://fontawesome.com/)
+- Desarrollo
+  - [CodePen](https://codepen.io/) - Snipets of HTML, CSS and JS Fragments
+  - [Can I use...](https://caniuse.com/) - Compatibilidad de features entre diferentes navegadores
+  - [Shoelace](http://shoelace.io/) - Bootstrap Grid Builder
+  - [Flexyboxes](https://the-echoplex.net/flexyboxes/) - Sandbox para Flexboxes
+- Iconos
+  - [Icomoon](https://icomoon.io/) - SVG Icons Library
+  - [Font Awesome](https://fontawesome.com/) - Font Icons Library
+- Paletas de colores
+  - [Paletton](https://paletton.com/) - Generador de paletas de colores usando círculo cromático
+  - [Coolors](https://coolors.co/) - Buscador de paletas de colores
