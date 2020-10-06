@@ -1,6 +1,6 @@
 a {
     text-decoration: none;
-    
+
     h2 {
         font-family: 'Permanent Marker', cursive;
         color: $color-primary-light;
@@ -8,5 +8,18 @@ a {
         margin-top: 2rem;
         font-size: 4rem;
         text-shadow: 2px 2px 2px $color-grey-dark-1;
+        
+        display: grid;
+        grid-template-columns: 1fr max-content 1fr;
+        grid-column-gap: 1.5rem;
+        align-items: center;
+        
+        &::before,
+        &::after {
+            content: "";
+            height: 1px;
+            display: block;
+            background-color: currentColor;
+        }
     }
 }
