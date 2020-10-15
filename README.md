@@ -3,10 +3,10 @@ Esta actividad servirá como crash course de uso moderno de CSS3 utilizando un p
 
 ### Requerimientos
 Lo que necesitas para seguir este curso es:
-- [Git](https://git-scm.com/downloads) (por si lo quieres clonar, sino puedes descargar el .zip)
+- [Git](https://git-scm.com/downloads) pa'que clones este proyecto, sino puedes descargar el .zip (pero podría ser más lento)
 - [node.js](https://nodejs.org/es/) con npm (Con la versión LTS se arma la machaca)
 - Un editor de código (Yo uso Visual Studio Code, pero puedes usar el que te de la gana)
-- Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox)
+- Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox y Opera)
 
 ### Contenido
 - Pseudo clases y selectores
