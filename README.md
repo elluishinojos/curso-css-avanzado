@@ -16,6 +16,30 @@ Lo que necesitas para seguir este curso es:
 - Media Queries
 - Animaciones
 
+### Arrancar el proyecto
+1. Asegurarse de tener git y node instalado
+```console
+foo@bar:~$ git version
+git version 2.24.0.windows.2
+foo@bar:~$ node -v
+v12.14.0
+foo@bar:~$ npm -v
+6.13.4
+```
+2. Clonar el repo
+```console
+foo@bar:~$ git clone https://github.com/elluishinojos/curso-css-avanzado.git
+```
+3. Moverse a la carpeta y descargar las dependencias
+```console
+foo@bar:~$ cd curso-css-avanzado/starter
+foo@bar:~$ npm install
+```
+4. Correr el servidor
+```console
+foo@bar:~$ npm start
+```
+
 ### Sitios y Herramientas recomendadas
 - Frontend Frameworks de estilos y componentes (que he usado y recomiendo)
   - [Bootstrap](https://getbootstrap.com/) - Para lo que guste
