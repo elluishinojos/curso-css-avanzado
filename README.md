@@ -3,7 +3,7 @@ Esta actividad servirá como crash course de uso moderno de CSS3 utilizando un p
 
 ### Requerimientos
 Lo que necesitas para seguir este curso es:
-- Git (por si lo quieres clonar, sino puedes descargar el .zip)
+- [Git](https://git-scm.com/downloads) (por si lo quieres clonar, sino puedes descargar el .zip)
 - [node.js](https://nodejs.org/es/) con npm (Con la versión LTS se arma la machaca)
 - Un editor de código (Yo uso Visual Studio Code, pero puedes usar el que te de la gana)
 - Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox)
@@ -17,6 +17,11 @@ Lo que necesitas para seguir este curso es:
 - Animaciones
 
 ### Sitios y Herramientas recomendadas
+- Frontend Frameworks de estilos y componentes (que he usado y recomiendo)
+  - [Bootstrap](https://getbootstrap.com/) - Para lo que guste
+  - [Materialize](https://materializecss.com/) - Este también
+  - [Angular Material](https://material.angular.io/) - Para Angular (duh!)
+  - [Material UI](https://material-ui.com/) - Para React (Js/Ts)
 - Desarrollo
   - [CodePen](https://codepen.io/) - Snipets of HTML, CSS and JS Fragments
   - [Can I use...](https://caniuse.com/) - Compatibilidad de features entre diferentes navegadores
