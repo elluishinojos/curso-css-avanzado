@@ -9,12 +9,28 @@ Lo que necesitas para seguir este curso es:
 - Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox y Opera)
 
 ### Contenido
-- Pseudo clases y selectores
-- Gentil introducción a SASS
+- Bienvenida
+  - Verificar ambientes y clonar proyecto
+  - Pseudo clases y selectores
+  - Introducción a Sass 
+  - Explicación y demostración del proyecto
 - Flexbox
+  - Layout
+  - Header
+  - Sidebar
+  - Gallery
 - Grid
-- Media Queries
-- Animaciones
+  - Releases
+  - Collage
+- Últimos pasos
+  - Footer
+  - Media Queries
+  - Animaciones
+- Extras (Si nos alcanza el tiempo)
+  - La magia de sobre escribir clases
+  - Entre más específico más mejor
+  - Haga buenas prácticas desde el principio, no sea coshi
+  - Siguientes pasos
 
 ### Arrancar el proyecto
 1. Asegurarse de tener git y node instalado
