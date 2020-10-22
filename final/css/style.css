@@ -64,6 +64,12 @@ a {
     grid-template-columns: 1fr max-content 1fr;
     grid-column-gap: 1.5rem;
     align-items: center; }
+    @media only screen and (max-width: 37.5em) {
+      a h2 {
+        font-size: 3rem; } }
+    @media only screen and (max-width: 31.25em) {
+      a h2 {
+        font-size: 1.8rem; } }
     a h2::before, a h2::after {
       content: "";
       height: 1px;
@@ -104,6 +110,7 @@ a {
     font-size: inherit;
     color: inherit;
     background-color: #f4f2f2;
+    border: 1px solid #999;
     border: none;
     padding: .7rem 2rem;
     border-radius: 100px;
