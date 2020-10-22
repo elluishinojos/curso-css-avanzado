@@ -3,10 +3,10 @@ Esta actividad servirá como crash course de uso moderno de CSS3 utilizando un p
 
 ### Requerimientos
 Lo que necesitas para seguir este curso es:
-- Git (por si lo quieres clonar, sino puedes descargar el .zip)
+- [Git](https://git-scm.com/downloads) pa'que clones este proyecto, sino puedes descargar el .zip (pero podría ser más lento)
 - [node.js](https://nodejs.org/es/) con npm (Con la versión LTS se arma la machaca)
 - Un editor de código (Yo uso Visual Studio Code, pero puedes usar el que te de la gana)
-- Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox)
+- Cualquier navegador web, menos Internet Explorer. (Yo estaré usando Firefox y Opera)
 
 ### Contenido
 - Pseudo clases y selectores
@@ -16,7 +16,36 @@ Lo que necesitas para seguir este curso es:
 - Media Queries
 - Animaciones
 
+### Arrancar el proyecto
+1. Asegurarse de tener git y node instalado
+```console
+foo@bar:~$ git version
+git version 2.24.0.windows.2
+foo@bar:~$ node -v
+v12.14.0
+foo@bar:~$ npm -v
+6.13.4
+```
+2. Clonar el repo
+```console
+foo@bar:~$ git clone https://github.com/elluishinojos/curso-css-avanzado.git
+```
+3. Moverse a la carpeta y descargar las dependencias
+```console
+foo@bar:~$ cd curso-css-avanzado/starter
+foo@bar:~$ npm install
+```
+4. Correr el servidor
+```console
+foo@bar:~$ npm start
+```
+
 ### Sitios y Herramientas recomendadas
+- Frontend Frameworks de estilos y componentes (que he usado y recomiendo)
+  - [Bootstrap](https://getbootstrap.com/) - Para lo que guste
+  - [Materialize](https://materializecss.com/) - Este también
+  - [Angular Material](https://material.angular.io/) - Para Angular (duh!)
+  - [Material UI](https://material-ui.com/) - Para React (Js/Ts)
 - Desarrollo
   - [CodePen](https://codepen.io/) - Snipets of HTML, CSS and JS Fragments
   - [Can I use...](https://caniuse.com/) - Compatibilidad de features entre diferentes navegadores
