@@ -12,14 +12,16 @@ Lo que necesitas para seguir este curso es:
 - Bienvenida
   - Verificar ambientes y clonar proyecto
   - Pseudo clases y selectores
+    - [Demo 1](https://codepen.io/elluishinojos/pen/QWEpdLZ)
+    - [Demo 2](https://codepen.io/elluishinojos/pen/rNeRMYM)
   - Introducción a Sass 
   - Explicación y demostración del proyecto
-- Flexbox
+- Flexbox - [Demo Flexbox](https://codepen.io/elluishinojos/pen/abdXbeg)
   - Layout
   - Header
   - Sidebar
   - Gallery
-- Grid
+- Grid - [Demo Grid](https://codepen.io/elluishinojos/pen/PoNZooL)
   - Releases
   - Collage
 - Últimos pasos
