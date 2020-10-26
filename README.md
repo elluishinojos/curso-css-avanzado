@@ -75,3 +75,6 @@ foo@bar:~$ npm start
 - Paletas de colores
   - [Paletton](https://paletton.com/) - Generador de paletas de colores usando círculo cromático
   - [Coolors](https://coolors.co/) - Buscador de paletas de colores
+- Sitios Shilos y Didácticos 
+  - [Laws Of UX](https://lawsofux.com)
+  - [Contrast Rebelion](https://contrastrebellion.com)
