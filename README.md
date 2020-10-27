@@ -3,6 +3,8 @@
 
 Esta actividad servirá como crash course de uso moderno de CSS3 utilizando un preprocesador de estilos (en este caso Sass). Si de por si CSS3 tiene muchas funcionalidades poderosas que permiten crear llamativos y hermosos sitios web, con Sass le estaremos dando esteroides a nuestras hojas estilos. 
 
+
+
 ### Requerimientos
 Lo que necesitas para seguir este curso es:
 - [Git](https://git-scm.com/downloads) pa'que clones este proyecto, sino puedes descargar el .zip (pero podría ser más lento)
@@ -74,9 +76,10 @@ foo@bar:~$ npm start
 - Iconos
   - [Icomoon](https://icomoon.io/) - SVG Icons Library
   - [Font Awesome](https://fontawesome.com/) - Font Icons Library
-- Paletas de colores
+- Colores
   - [Paletton](https://paletton.com/) - Generador de paletas de colores usando círculo cromático
   - [Coolors](https://coolors.co/) - Buscador de paletas de colores
+  - [WebAIM](https://webaim.org/resources/contrastchecker/) - Contrast Checker
 - Sitios Shilos y Didácticos 
   - [Laws Of UX](https://lawsofux.com)
   - [Contrast Rebelion](https://contrastrebellion.com)
