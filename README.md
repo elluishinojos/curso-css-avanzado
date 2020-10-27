@@ -1,4 +1,6 @@
 # CSS avanzado con Sass - 8va semana ISW
+![](https://scontent.fhmo2-2.fna.fbcdn.net/v/t1.0-9/121890597_3736074776425524_8802008554329561235_o.jpg?_nc_cat=105&ccb=2&_nc_sid=340051&_nc_eui2=AeHWHfOnBRSnZe74gRTO-bW2-DVRe0ojbib4NVF7SiNuJibMO29H1FQG9j1u5UkSC0w&_nc_ohc=m72TeSLYaZsAX8eht5Y&_nc_ht=scontent.fhmo2-2.fna&oh=d9ec010f510a74c1716d3bf72269f814&oe=5FBE3AF7)
+
 Esta actividad servirá como crash course de uso moderno de CSS3 utilizando un preprocesador de estilos (en este caso Sass). Si de por si CSS3 tiene muchas funcionalidades poderosas que permiten crear llamativos y hermosos sitios web, con Sass le estaremos dando esteroides a nuestras hojas estilos. 
 
 ### Requerimientos
