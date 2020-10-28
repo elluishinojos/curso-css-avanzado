@@ -20,12 +20,12 @@ Lo que necesitas para seguir este curso es:
     - [Demo 2](https://codepen.io/elluishinojos/pen/rNeRMYM)
   - Introducción a Sass 
   - Explicación y demostración del proyecto
-- Flexbox - [Demo Flexbox](https://codepen.io/elluishinojos/pen/abdXbeg)
+- Flexbox - [Demo Flexbox](https://codepen.io/elluishinojos/pen/abdXbeg) - [Cheat Sheet](https://github.com/alsacreations/guidelines/blob/master/flexbox-cheatsheet.pdf)
   - Layout
   - Header
   - Sidebar
   - Gallery
-- Grid - [Demo Grid](https://codepen.io/elluishinojos/pen/PoNZooL)
+- Grid - [Demo Grid](https://codepen.io/elluishinojos/pen/PoNZooL) - [Cheat Sheet](https://github.com/alsacreations/guidelines/blob/master/grid-cheatsheet.pdf)
   - Releases
   - Collage
 - Últimos pasos
@@ -81,5 +81,6 @@ foo@bar:~$ npm start
   - [Coolors](https://coolors.co/) - Buscador de paletas de colores
   - [WebAIM](https://webaim.org/resources/contrastchecker/) - Contrast Checker
 - Sitios Shilos y Didácticos 
+  - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
   - [Laws Of UX](https://lawsofux.com)
   - [Contrast Rebelion](https://contrastrebellion.com)
